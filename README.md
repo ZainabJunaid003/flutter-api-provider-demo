@@ -2,7 +2,7 @@
 
 A Flutter app that fetches data from a public REST API (JSONPlaceholder) using the `http` package and manages state with `Provider`.
 
-## Features
+## Features 
 
 - **GET request:** loads a list of posts from the API
 - **POST request:** creates a new post through an "Add post" dialog
